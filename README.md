@@ -6,5 +6,6 @@
 - uses techniques like data augmentation, dropout, L2 regularization and batch normalization to optimize the performance of the model and reach an accuracy of over 95%
 
 # Note
+- MultiClass_Model is the main file; 2Class_Model is the simpler version that can only handle two categories
 - dataset used for training and testing the model is from UC Merced at this link: http://weegee.vision.ucmerced.edu/datasets/landuse.html
 - this project follows the tutorials here: https://www.jiuzhang.com/course/88
